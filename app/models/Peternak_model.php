@@ -9,7 +9,7 @@ class Peternak_model
 
   public function __construct()
   {
-    $this->db = new Database;
+    $this->db = new Database2;
   }
 
 
